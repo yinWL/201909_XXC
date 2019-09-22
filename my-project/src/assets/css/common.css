@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:Helvetica,"Microsoft Yahei","微软雅黑",Arial,sans-serif;
+  font-size: 16px;
+}
+.clearFix:after { content:""; display:block; height:0; clear:both;}
+.clear{clear: both;}
+
+.bg5{background-color: #efeff4;}
+.bg6{background-color: #efeff4;}
+.bg7{background-color: #fff;}
+.bg8{background-color: #ffebc3;}
+
+.f-left{float: left}
+.f-right{float: right}
+
+
+
+.mar_l_01{margin-left: 10px;}
+.mar_t_10{margin-top: 10px;}
+
+
+.f12{font-size: 12px;}
+.f14{font-size: 14px;}
+.f16{font-size: 16px;}
+
+
+.w25{width: 25%}
+.w50{width: 50px}
+.w100{width: 100%}
+
+.height50{height: 50px;}
+
+.border-r{border-radius: 50%}
+.border-r1{border-right: 1px solid #cccccc}
+.border-l1{border-left: 1px solid #cccccc}
+.border-t1{border-top: 1px solid #cccccc;}
+.border-b1{border-bottom: 1px solid #cccccc;}
+
+
+.display-b{display: block}
+.display-l{display: inline-block}
+
+.position-r{position: relative;}
+
+.t-center{text-align: center;}
+
+.pad2{padding: 2px;}
+.pad4{padding: 4px;}
+.pad8{padding: 8px;}
+.pad10{padding: 10px;}
+
+.c0{color: #cc8938}
